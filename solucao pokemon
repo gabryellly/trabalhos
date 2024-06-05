@@ -1,0 +1,27 @@
+11  cd pokemons.txt
+   12  head -n 150 pokemons
+   13  head -n 150 pokemons.txt
+   14  grep pikachu pokemons.txt
+   15  #025 pikachu electric
+   16  grep "Ice" pokemons.txt
+   17  grep "Pikachu" pokemons.txt
+   18  grep "water" pokemons.txt
+   19  grep "Vanilluxe" pokemons.txt
+   20  grep -B "pikachu" pokemons.txt
+   21  grep -B "Pikachu" pokemons.txt
+   22  grep -b "Pikachu" pokemons
+   23  grep -B "Pikachu" pokemons
+   24  grep -b Pikachu pokemons
+   25  grep "Pikachu" pokemons.txt
+   26  grep -B 3 pikachu pokemons.txt
+   27  grep -B 3 Pikachu pokemons.txt
+   28  grep -A 2 Pikachu pokemons.txt
+   29  head -N pokemons.txt
+   30  head -N 025 Pikachu pokemons.txt
+   31  head -N 151 Pikachu pokemons.txt
+   32  head -n 151 Pikachu pokemons.txt
+   33  tail -n pokemons.txt
+   34  tail -N pokemons
+   35  tail -n pokemons
+   36  tail -n 101 pokemons.txt
+   37  history
