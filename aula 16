@@ -1,0 +1,49 @@
+#aula 16
+//alert("teste")
+//declaracao de variaveis
+//let primeiroNumero
+//let segundaNumero
+//let resultado
+
+//leitura de dados informacao
+//primeiroNumero = prompt("digite o primeiro numero")
+//segundoNumero = prompt("digite o segundo numero")
+
+//teste de comparacao
+
+//resultado = primeiroNumero === segundoNumero
+//alert (resultado)
+//resultado = primeiroNumero > segundoNumero
+//alert (resultado)
+
+//console.log(typeof horasTrabalho)
+//console.log(typeof salaeioDia)
+//convertendo o que e nessesario
+//let horasTrabalho = Number(horasTrabalho)
+//let salDiaNumero = Number(salarioDia)
+//processando valores
+//let valHoraNumber = horasTrabNumber/salDiaNumber
+//conversao para nao dar erro de NULL
+//let valorHora = string(valHoraNumber)
+//const mensagem = ("seu valor hora e ") + valorHora + "!!!"
+//verificando variaveis
+//console.log(typeof valorHora)
+//console.log(typeof mensagem)
+//console.log(mensagem)
+//saida de valores para front End
+//alert(mensagem)
+
+//declaracao de variaveis
+//let a 
+//let b
+//let c 
+//let resultado
+
+//leitura de dados informados pelo usuario
+//a = true
+//b = false
+//c = true
+
+//1. realize a operacao: a && b
+//resultado = a && b
+//alert(resultado)
