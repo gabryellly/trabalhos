@@ -1,0 +1,40 @@
+//const numeros = [1, 2, 3]
+//numeros.push(4)
+//console.log(numeros) // [1, 2, 3, 4]
+//numeros.push(5, 6, 7)
+//console.log(numeros) // [1, 2, 3, 4, 5, 6, 7]
+
+//const meusPeixes = ["palhaço", "mandarim", "esturjão"]
+//meusPeixes.pop()
+//console.log(meusPeixes) // ["palhaço", "mandarim"]
+
+//const letras = ["A", "B", "C", "D", "E", "F", "G", "H"]
+// índices (i) 0 1 2 3 4 5 6 7
+//letras.splice(2, 1) 
+// letras = ["A", "B", "D", "E", "F", "G", "H"]
+// índices (i) 0 1 2 3 4 5 6 
+//letras.splice(3, 2) // letras = ["A", "B", "D", "G", "H"]
+
+//const numeros = [1, 2, 3, 4, 5, 6]
+//console.log(numeros) // [1, 2, 3, 4, 5, 6]
+//numeros.push(7)
+//console.log(numeros) // [1, 2, 3, 4, 5, 6, 7]
+//numeros.pop ["4", "5"]
+//console.log(numeros) // [1,2, 3, 6, 7]
+
+//let comidasPreferiadas = ["arroz", "bife", "ovo", "batata frita","biscoito"]
+//console.log(comidasPreferidas[0])
+//console.log(comidasPreferidas[1])
+//console.log(comidasPreferidas[2])
+//console.log(comidasPreferidas[3])
+//console.log(comidasPreferiadas[4])
+//console.log(comidasPreferiadas[0] + "\n" + comidasPreferiadas[1] + "\n" + comidasPreferiadas[2] + "\n" + comidasPreferiadas[3] + "\n" + comidasPreferiadas[4] + "\n" + comidasPreferiadas[0])
+
+//let frutas =["Banana", "morango", "abacaxi", "laranja", "ameixa"]
+//console.log(frutas[0])
+//console.log(frutas[1])
+//console.log(frutas[2])
+//console.log(frutas[3])
+//console.log(frutas[4])
+//console.log(frutas[5])
+//console.log(futas[0] + "\n" + frutas[1] + "\n" + frutas[2] + "\n" + frutas[3] + "\n" + frutas[4] + "\n" + frutas[5] + "\n" + frutas[0])
