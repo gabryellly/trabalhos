@@ -1,0 +1,83 @@
+cd~
+  158  clone
+  159  clone "teste"
+  160  clone teste.txt
+  161  cd Usuarios
+  162  cd  Usuário
+  163  cd. Usuário
+  164  cd Windows (C:)
+  165   cd.. Windows (C:)
+  166  cd teste000
+  167  git push -u origin main
+  168  git remote add origin https://github.com/gabryellly/teste.gi
+  169  cd teste000.txt
+  170  git clone url-do-seu-repo
+  171  git clone teste
+  172  cd ~
+  173  is
+  174  ls
+  175  cd ~~
+  176  cd ~
+  177  git clone https://github.com/gabryellly/teste0.git
+  178  ls
+  179  cd teste0
+  180  git add
+  181  git add
+  182  git add
+  183  git add
+  184  git add .
+  185  git status
+  186  git branch git-1
+  187  git commit -m "inicializando projeto"
+  188  git branch git-1
+  189  git checkout git-1
+  190  cd .git
+  191  cd aulagit
+  192  grep aulagit
+  193  history
+  194  cd~
+  195  ls
+  196  cd~
+  197   git clone https://github.com/gabryellly/teste0.git
+  198  ls
+  199   cd teste0
+  200   git add .
+  201  git status
+  202   git branch git-1
+  203   git commit -m "inicializando projeto"
+  204   git branch git-1
+  205   git checkout git-1
+  206  cd .git
+  207   cd aulagit
+  208  git status
+  209  git status
+  210  git status
+  211  git status
+  212  git checkout main
+  213  git branch
+  214  git checkout main
+  215  git-1 main
+  216  git status
+  217  git add .
+  218  git add --all
+  219  git checkout main
+  220  ls
+  221  clear
+  222  cd..
+  223  cd
+  224  cd~
+  225  ls
+  226  cd teste0
+  227  cd aulagit
+  228  git branch
+  229  git checkout
+  230  cd sobre-mim
+  231  git status
+  232  git add
+  233  git add --all
+  234  git commit -m "nenhum mudanca feita"
+  235  git push origin git-1
+  236  git checkout master
+  237  git checkout
+  238  git checkout main
+  239  history
