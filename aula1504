@@ -1,0 +1,16 @@
+console.log(typeof horasTrabalho)
+console.log(typeof salaeioDia)
+//convertendo o que e nessesario
+let horasTrabalho = Number(horasTrabalho)
+let salDiaNumero = Number(salarioDia)
+//processando valores
+let valHoraNumber = horasTrabNumber/salDiaNumber
+//conversao para nao dar erro de NULL
+let valorHora = string(valHoraNumber)
+const mensagem = ("seu valor hora e ") + valorHora + "!!!"
+//verificando variaveis
+console.log(typeof valorHora)
+console.log(typeof mensagem)
+console.log(mensagem)
+//saida de valores para front End
+alert(mensagem)
