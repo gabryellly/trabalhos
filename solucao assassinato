@@ -1,0 +1,122 @@
+39  cd assasinato-na-linha-de-comando
+   40  cd assassinato-na-linha-de-comando
+   41  cd clmystery-pt-BR
+   42  cat dica1.txt
+   43  cat dica1.txt
+   44  cat dica1
+   45  head -n 20 pessoas
+   46  cd misterio
+   47  head -n 20 pessoas
+   48  cd ruas
+   49  cat 48 rua walton,linha 433
+   50  cat rua hemenway, linha 390
+   51  cat rua-hemenway,-linha-390.txt
+   52  cat rua hemenway, linha 390.txt
+   53  cat avenida elmwood, linha 123.txt
+   54  cat rua-hemenway
+   55  cat rua-hemenway.txt
+   56  cd..
+   57  cd..
+   58  cd ..
+   59  cd ..
+   60  cat dica3
+   61  cat dica4
+   62  grep "Annabel" pesspas.txt
+   63  grep "Annabel" pessoas.txt
+   64  cd misterio
+   65  grep "Annabel" pessoas.txt
+   66  grep "Annabel" pessoas
+   67  cd ruas
+   68  cat vila-hart
+   69  cat vila-Hart.TXT
+   70  cat Vila-Hart
+   71  cat Vila-Hart.txt
+   72  cat Vila_Hart
+   73  cd ..
+   74  cd ..
+   75  cat dica5
+   76  head -n 173 ruas/Rua_Msttpan | tail -n 1
+   77  cd misterio
+   78  cd entrevistas
+   79  head -n 173 rua/Rua_Msttpan | tail -n 1
+   80   head -N 173 rua/Rua_Msttpan | tail -n 1
+   81   head -N 173 rua/Rua_Msttpan | tail -N 1
+   82   head -n 173 "rua/Rua_Msttpan" | tail -n 1
+   83  head -n "rua/Rua_Msttpan" | tail -n
+   84  cd ..
+   85  cd ..
+   86  cat dica6
+   87  cd misterio
+   88  cd automoveis
+   89  cat automoveis
+   90  cd ..
+   91  dica6
+   92  cat dica6
+   93  cd misterios
+   94  cd misterio
+   95  cat automoveis
+   96  grep "Honda' automoveis
+
+grep "Honda' automoveis
+
+grep "Honda" automoveis
+
+grep "Honda" automoveis.txt
+cd ..
+   97  grep "Honda" automoveis.txt
+   98  grep "Honda" automoveis
+   99  head "Honda" automoveis
+  100  head "azul"automoveis
+  101  grep "Azul" automoveis
+  102  head "Azul" automoveis
+  103  grep "L337" automoveis
+  104  head "L337" automoveis
+  105  cd ..
+  106  cat dica6
+  107  cat dica7
+  108  grep -A 5 "L337" automoveis
+  109  cd misterio
+  110  grep -A 5 "L337" automoveis
+  111  grep -B 5 "L337" automoveis
+  112  grep -C "L337" automoveis
+  113  grep -C 5 "L337" automoveis
+  114  cd ..
+  115  dica8
+  116  cat dica8
+  117  cd misterio
+  118  cd associacoes
+  119  cat Clube_de_Campo academia_Fitness Costco | grep -C "John Smitch"
+  120  cat Clube_de_Campo Costoco | grep -C "John Smitch"
+  121  cat Clube_de_Campo Academia_Fitness Costco | grep "John Smith" | wc -l
+  122  cat Clube_de_Campo.txt
+  123  cat Clube_de_Campo
+  124  cat Clube_de_Campo |grep -C "John Smith"
+  125  cat Clube_de_Campo Academia_Fitness costco |grep "John Smith"
+  126  cat Academia_Fitness
+  127  $
+  128  $ cat Clube==-------====--
+  129  cat Clube_de_Campo Academia_Fitness Costco | grep -C "John Smith"
+  130  cat Clube_de_Campo Academia_Fitness Costco | grep -C "John Smith" | wc - 1
+  131  cd ..
+  132  cd ..
+  133  cat inicio
+  134  cat solucao
+  135  echo " " && sed -n '/Z/p' solucao | tail -n 6 | cut -c 8,22,23,41 && echo " "
+  136  CNLELXUUEQIHEDEMWMMAG  KWRWTWDWOIAUKQATOBIXGKVRNYEMW
+  137  MBLMQCBYHRDVNWHXORVXX  QHAFLXPMNVLVPNDDYJRDGFESGPTSY
+  138  QYDOJMRMDNIHLVEQNGGCN  NBAKLKCGFBSXIYPPWRLPWAGMWFIBA
+  139  DDXVYIKHXDPPCEBCMOKKB  AMURJEHKHHFULAQDIYRYDFYLOWCQL
+  140  NDGOPEDJWUHZMBXHTQXJP  PTLLHILVSYHKMJVHVBVBYKWDFROTQ
+  141  ULNDGBKEBIRUTQEFURZAR  HHHSYTSLAIRVMRFNDOUPCTIIKNMDV
+  142  NYPBFOTRCTEIOPJJCYGGR  VTVSZLRCTOBESLFKYWVPKHWAKEFVL
+  143  FMPDJYTQNNHLMAEBVIWLH  RUCLMYSANIDDQEIDDASWEFQACGIQU
+  144  ACFMNBMVSXVRNELQSKICV  LNVPFRPNAPWAQXEWGKXGPRPKPFNSI
+  145  KHMIFRGEXCMHHIDOKDTYU  MUTJCGAUFXVUYOKBGEMOKRMMOVZVO
+  146  IJRMOCDBRMQSOGQVAKHNF  XJWDYOXOVRJBSJYOODKUXGGVDYYWH
+  147  RCOQJLXGSPHPHBDITGYAN  KCMDVEHCJFSGLFFKNDRICNHOLNHKS
+  148  YRHBURSMVBEWFOKDPLGMZ  OYQNVDYWDBBSEEWXDRPWUOCFJXPLH
+  149  IDMFKXGKIPFEKAPLBGOKR  VCYLAYBSSVLPXQECRYFLLKCIMQNUP
+  150  FRUBVCDJHKCPBINDNVHUW  KRDRNDTRIGYLAIYJEMRIKIBAYGTSY
+  151  BGTCTDNYTBMPCRAVGNRWK  MWFRWZBAFCRXAFFBXSTLPQPFLGIFJ
+  152  $ history
+  153  history
